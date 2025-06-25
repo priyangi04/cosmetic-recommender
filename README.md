@@ -1,4 +1,4 @@
-# Cosmetic Recommender
+# 🎀Cosmetic Recommender
 
 A content-based recommendation system that compares and visualizes moisturizers based on their chemical ingredients and skin type compatibility using t-SNE and Bokeh.
 
