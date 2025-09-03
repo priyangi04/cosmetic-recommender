@@ -39,9 +39,6 @@ The main goal? To build a system that recommends similar products based not only
 
 ---
 
-## 👑 About Me
-Built with ❤️ (and real tears) by Priyangi, a Data Analyst with a fire for data, dashboards, and real-world problem solving.
-📍 Tools mastered: SQL, Python, Excel, Tableau, Power BI
 Always open to feedback, thoughts, or skin-care collabs powered by Python ;)
 
 ⭐ If you like this project
